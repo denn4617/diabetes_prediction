@@ -1,0 +1,54 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.so
+__pycache__/
+*.ipynb_checkpoints
+
+# Virtualenv
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Kaggle Datasets
+kaggle/
+
+# Environment Files
+*.env
+*.ini
+*.toml
+
+# Byte-compiled / optimized / DLL files
+*.dll
+*.dylib
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Machine learning artifacts
+*.h5
+*.hdf5
+*.joblib
+*.pkl
+
+# VSCode Settings
+.vscode/
+
+# PyCharm project settings
+.idea/
